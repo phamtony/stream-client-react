@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4e9affd-5afa-4db7-9396-dd78a223768b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GoogleAuth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GoogleAuth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/authReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/authReducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
       <workItem from="1609056549882" duration="21000" />
       <workItem from="1609056579161" duration="7115000" />
       <workItem from="1609290378555" duration="486000" />
-      <workItem from="1609291339752" duration="2911000" />
+      <workItem from="1609291339752" duration="3270000" />
     </task>
     <servers />
   </component>
